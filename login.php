@@ -14,6 +14,7 @@
         </div>
         <div class="form-item">
             <label for="password">password</label>
+            <input type="text" name="password" id="password">
         </div>
         <button type="submit">Login</button>
     </form>

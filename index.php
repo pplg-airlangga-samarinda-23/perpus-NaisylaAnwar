@@ -12,7 +12,7 @@
         <ul>
             <li>Katalog uku</li>
             <li>Tentang</li>
-            <li><a href="login.php"></a></li>
+            <li><a href="login.php">Login</a></li>
         </ul>
     </nav>
 </body>
